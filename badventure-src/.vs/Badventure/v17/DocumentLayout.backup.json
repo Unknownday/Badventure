@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Badventure\\badventure-src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\generated_world_generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\combined_world_generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\testscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\testscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\setterrainheights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\setterrainheights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\paintterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\paintterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\heightmapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\heightmapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generated_world_generator.cs",
+              "DocumentMoniker": "D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\generated_world_generator.cs",
+              "ToolTip": "D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\generated_world_generator.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:56:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "combined_world_generation.cs",
+              "DocumentMoniker": "D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\combined_world_generation.cs",
+              "ToolTip": "D:\\Other\\\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0438\\combined_world_generation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:53:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SetTerrainHeights.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\SetTerrainHeights.cs",
+              "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\SetTerrainHeights.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\SetTerrainHeights.cs",
+              "RelativeToolTip": "Badventure\\Scripts\\World\\SetTerrainHeights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:36:04.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaintTerrain.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\PaintTerrain.cs",
+              "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\PaintTerrain.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\PaintTerrain.cs",
+              "RelativeToolTip": "Badventure\\Scripts\\World\\PaintTerrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:09:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeightMapGenerator.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\HeightMapGenerator.cs",
+              "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\HeightMapGenerator.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\HeightMapGenerator.cs",
+              "RelativeToolTip": "Badventure\\Scripts\\World\\HeightMapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:07:31.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestScene.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\TestScene.cs",
+              "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\TestScene.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\TestScene.cs",
+              "RelativeToolTip": "Badventure\\Scripts\\World\\TestScene.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:47:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\Player\\Movement.cs",
+              "RelativeDocumentMoniker": "Badventure\\Scripts\\Player\\Movement.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\Player\\Movement.cs",
+              "RelativeToolTip": "Badventure\\Scripts\\Player\\Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:02:50.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

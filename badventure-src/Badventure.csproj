@@ -1,0 +1,17 @@
+<Project Sdk="Godot.NET.Sdk/4.4.0">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Badventure\Assets\Audio\" />
+    <Folder Include="Badventure\Assets\Models\" />
+    <Folder Include="Badventure\Assets\Textures\" />
+    <Folder Include="Badventure\Scenes\" />
+    <Folder Include="Badventure\Scripts\Enemies\" />
+    <Folder Include="Badventure\UI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="9.0.3" />
+  </ItemGroup>
+</Project>
