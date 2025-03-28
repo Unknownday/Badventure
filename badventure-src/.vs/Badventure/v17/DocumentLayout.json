@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "E:\\Badventure\\badventure-src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\biomemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\biomemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\player\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\perlinnoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\perlinnoise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\rangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\rangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\gaussianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\gaussianblur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\rangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\rangemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\badventure\\scripts\\world\\generator\\biomemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:badventure\\scripts\\world\\generator\\biomemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|e:\\badventure\\badventure-src\\addons\\terrabrush\\scripts\\dialogutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA21020-6557-4388-947A-4DAE502ED47F}|Badventure.csproj|solutionrelative:addons\\terrabrush\\scripts\\dialogutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "DialogUtils.cs",
+              "DocumentMoniker": "E:\\Badventure\\badventure-src\\addons\\terrabrush\\Scripts\\DialogUtils.cs",
+              "RelativeDocumentMoniker": "addons\\terrabrush\\Scripts\\DialogUtils.cs",
+              "ToolTip": "E:\\Badventure\\badventure-src\\addons\\terrabrush\\Scripts\\DialogUtils.cs",
+              "RelativeToolTip": "addons\\terrabrush\\Scripts\\DialogUtils.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:54:41.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BiomeModel.cs",
               "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\Generator\\BiomeModel.cs",
               "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\Generator\\BiomeModel.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RangeModel.cs",
               "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\Generator\\RangeModel.cs",
               "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\Generator\\RangeModel.cs",
@@ -77,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PerlinNoise.cs",
               "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\Generator\\PerlinNoise.cs",
               "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\Generator\\PerlinNoise.cs",
               "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\Generator\\PerlinNoise.cs",
               "RelativeToolTip": "Badventure\\Scripts\\World\\Generator\\PerlinNoise.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAcwHgAAAA5AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T20:17:13.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TerrainGenerator.cs",
               "DocumentMoniker": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\TerrainGenerator.cs",
               "RelativeDocumentMoniker": "Badventure\\Scripts\\World\\TerrainGenerator.cs",
               "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\World\\TerrainGenerator.cs",
               "RelativeToolTip": "Badventure\\Scripts\\World\\TerrainGenerator.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowE4AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T13:47:44.438Z",
               "EditorCaption": ""
@@ -109,7 +126,7 @@
               "RelativeDocumentMoniker": "Badventure\\Scripts\\Player\\Movement.cs",
               "ToolTip": "E:\\Badventure\\badventure-src\\Badventure\\Scripts\\Player\\Movement.cs",
               "RelativeToolTip": "Badventure\\Scripts\\Player\\Movement.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwDwAAAARAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T23:02:50.662Z",
               "EditorCaption": ""

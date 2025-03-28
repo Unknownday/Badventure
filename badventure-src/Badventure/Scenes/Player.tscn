@@ -1,8 +1,15 @@
-[gd_scene load_steps=3 format=3 uid="uid://dhcwq83si5vrm"]
+[gd_scene load_steps=6 format=3 uid="uid://dhcwq83si5vrm"]
 
 [ext_resource type="Script" uid="uid://dueluadh75s2e" path="res://Badventure/Scripts/Player/Movement.cs" id="1_gbd32"]
+[ext_resource type="Texture2D" uid="uid://dy52hjrl22yv3" path="res://Badventure/Assets/Textures/ValleyTexture.png" id="2_jo6g1"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_6hte6"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_3codw"]
+albedo_texture = ExtResource("2_jo6g1")
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_nyty4"]
+material = SubResource("StandardMaterial3D_3codw")
 
 [node name="Node3D" type="Node3D"]
 
@@ -14,6 +21,7 @@ script = ExtResource("1_gbd32")
 shape = SubResource("CapsuleShape3D_6hte6")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="CharacterBody3D/CollisionShape3D"]
+mesh = SubResource("CapsuleMesh_nyty4")
 skeleton = NodePath("../..")
 
 [node name="Camera3D" type="Camera3D" parent="CharacterBody3D"]
